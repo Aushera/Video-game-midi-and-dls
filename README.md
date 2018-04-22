@@ -4,3 +4,4 @@ TO-DO:
 -rename a lot of files                                 
 -convert a few .sf2 to .dls                                   
 -complete some games
+-pitch correct a few midi's
