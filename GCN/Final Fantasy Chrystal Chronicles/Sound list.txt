@@ -1,0 +1,65 @@
+100 - Departure
+101 - Annual Festival
+102 - some other town
+103 - Serenity
+104 - no idea
+105 - Today, Becoming Tomorrow
+106 - Across the Divide
+107 - The First Town
+108 - some town
+109 - Magii is Everything (sans opening)
+110 - Game over theme
+111 - Monster's Dance ~Rondo~
+112 - I'm Moogle
+113 - Make a Resolution
+114 - In the gloomy Darkness
+115 - Shudder Monster
+116 - Goblin's Lair
+117 - something endgame
+118 - To the Successor of the Crystal
+119 - Moving clouds at the river surface (streamed)
+120 - Sleeping Treasure in the Sand
+121 - Orgel of Water
+122 - Moving clouds at the river surface ver2 (streamed)
+123 - Mag Mail
+124 - Twilight in Dreamland 
+125 - Miasma
+126 - Echoes in the heart(?)
+127 - Serenity
+128 - Prosperity and Tradition
+129 - Leaving the Body Freely
+130 - Amidatty and Eleanor, too
+131 - Promised Grace
+132 - Voice of the Wind, SOng of Time
+133 - When the northern sky was clear
+134 - Eternal Oath (sans opening)
+135 - Something Burns in the Heart (sans opening)
+136 - Unite, Descent
+137 - Sad Monster
+138 - unknown (probably end game)
+139 - My Den
+140 - The Time of many smiling faces
+141 - If it's three people... (Mostly streamed)
+142 - Caravan Crossroad (Mostly streamed
+143 - Black Knight (Streamed)
+144 - Echo of Memories
+150 - Departure (Opening)
+154 - Aiming towards a new world (Opening)
+156 - Silence
+159 - Magii is Everything (Opening)
+162 - Serenity  
+164 - In the gloomy Darkness (Opening)
+165 - Goblin's Lair (Opening)
+166 - Shudder, Monster (Opening)
+170 - Sleeping Treasure in the Sand (Opening) 
+174 - Twilight in Dreamland (Opening)
+181 - Percussion test?
+182 - Voice of the Wind, SOng of Time (Opening)
+183 - I don't want to forget (?)
+184 - Eternal Oath (Opening)
+185 - Something Burns in the Heart (Opening)
+str0001 - Myrrh Tree
+str0002 - Sound of the Wind
+str0003 - Starry Moonlit Night
+str0006 - Thoroughly Blue
+str0007 - Water of Life

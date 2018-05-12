@@ -5,3 +5,4 @@ TO-DO:
 -convert a few .sf2 to .dls                                   
 -complete some games                                 
 -pitch correct a few midi's
+-make midi's out of the Renoise files
